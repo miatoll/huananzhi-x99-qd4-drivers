@@ -1,4 +1,6 @@
 # Huananzhi X99 QD4 Official drivers
+Українська версія [(сюди)](https://github.com/miatoll/huananzhi-x99-qd4-drivers/blob/main/README-ua.md)
+Русская версия [(сюда)](https://github.com/miatoll/huananzhi-x99-qd4-drivers/blob/main/README-ru.md)
 This repository contains the official drivers for the Huananzhi X99 QD4 motherboard
 I uploaded these drivers here through the unstable work of the official server
 # Files
@@ -15,4 +17,5 @@ This repository contains
 # How to download?
  - Go to Releases
  - [Or click here](https://github.com/miatoll/huananzhi-x99-qd4-drivers/releases/tag/29-03-2023)
+
 
